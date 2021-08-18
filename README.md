@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hamid481025
 - 👀 I’m interested in developing websitse
 - 🌱 I’m currently learning Information Systems
-- 💞️ I’m looking to collaborate on projectx
+- 💞️ I’m looking to collaborate on project
 - 📫 How to reach me ? you can reach me via my email rennerhamidmuctarr@gmail.com
 
 <!---
